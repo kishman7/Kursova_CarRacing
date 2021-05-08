@@ -1,0 +1,16 @@
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\CarRacing.exe
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\CarRacing.deps.json
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\CarRacing.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\CarRacing.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\CarRacing.dll
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\ref\CarRacing.dll
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\bin\Debug\net5.0\CarRacing.pdb
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.dll
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\ref\CarRacing.dll
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.pdb
+F:\YURKO\SHAG\Project C#\Kursova_CarRacing\CarRacing\CarRacing\obj\Debug\net5.0\CarRacing.genruntimeconfig.cache
